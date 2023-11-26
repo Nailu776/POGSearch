@@ -29,9 +29,9 @@ POGSearch began as a focused solution for indexing repositories from private Git
 - **User-Driven Data Configuration**: In the future, POGSearch may evolve into a platform where users can easily submit their data, configure access roles, and publish searchable content, thereby broadening its scope and utility.
 - **Highly Optimized Multithreaded Data Processing Architecture**: Leveraging high-performance programming languages to enhance backend efficiency and scalability.
 
-# Gallery
+# Gallery of Self-Hosted Example Usage
+
 ![login](https://github.com/Nailu776/POGSearch/assets/85428822/96b9f2f3-b858-4f8c-8503-1eff368b33e9)
 ![admin-panel](https://github.com/Nailu776/POGSearch/assets/85428822/c439033d-603d-4412-af1f-70663e455e3e)
-Dev-Preview:
-![search-dev-preview](https://github.com/Nailu776/POGSearch/assets/85428822/0fb93ddb-87a7-40a9-88a9-466f07138538)
+![search](https://github.com/Nailu776/POGSearch/assets/85428822/105b87cd-de7d-40a9-a5ad-4155ae0ef603)
 
